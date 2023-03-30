@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 This example is to show different parts of Git repository
 
+## Deployment
+
+This is a simple web project deployment
+can be on any web server.
